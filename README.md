@@ -18,15 +18,10 @@ This program creates a trajectory for a Panda robot with 7 degrees of freedom. T
 - Roboticstoolbox library
 - Spatialmath
 
-## Running the Program
-
-1. Download the `robot_trajectory.py` file.
-2. Run the program using the command `python robot_trajectory.py`.
-
 ## Results
 
 After running the program, two plots and an animation will be generated:
 
 1. **Circle Points Plot**: Shows the points of the circle on the XY plane.
 2. **Robot Axis Angle Values Plot**: Illustrates the changes in the values of the angles of the robot's axes during movement.
-3. **Panda Robot Trajectory Animation**: Displays an animation of the entire trajectory execution by the Panda robot.
+3. **Panda Robot Trajectory Animation**: Displays an animation of the entire trajectory execution by the Panda robot in the Swift enviroment.
